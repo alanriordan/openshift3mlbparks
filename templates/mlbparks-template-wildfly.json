@@ -106,10 +106,6 @@
                   "github": {
                      "secret": "${GITHUB_TRIGGER_SECRET}"
                   }
-               },
-               {
-                  "type": "ImageChange",
-                  "imageChange": {}
                }
             ],
             "source": {
